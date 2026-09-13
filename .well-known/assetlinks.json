@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.nnenoix.otvychka",
+      "sha256_cert_fingerprints": [
+        "DB:0C:2B:C4:F3:5D:6F:E6:B2:47:E5:40:65:82:E8:11:32:FE:5B:67:8C:4D:6E:EE:18:29:4C:F1:83:75:7F:C6"
+      ]
+    }
+  }
+]
